@@ -7,11 +7,8 @@ body {
 
 .container {
     display: flex;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-gap: 3cap;
     justify-content: space-around;
     align-items: center;
-    font-size: 96px;
     height: 100vh;
 }
 
