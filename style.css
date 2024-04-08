@@ -1,4 +1,7 @@
 div {
+    color: white;
+    position: relative;
+    text-align: center;
     animation: animacija1 5s linear 2s infinite alternate;
 }
 
