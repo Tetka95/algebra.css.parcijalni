@@ -38,7 +38,7 @@ body {
 
 .container div:nth-child(2) {
     background-color: red;
-    animation: animacija 2.5s ease-in-out forwards;
+    animation: animacija 1.5s ease-in-out 1.5s forwards;
     
 }
 
@@ -49,7 +49,7 @@ body {
 
 .container div:last-child {
     background-color: lightsalmon;  
-    animation: animacija 3.5s ease-in-out forwards;
+    animation: animacija 1.5s ease-in-out 3s forwards;
 }
 
 .container div:last-child:hover {
