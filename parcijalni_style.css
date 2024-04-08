@@ -23,6 +23,7 @@ body {
     font-weight: bold;
     padding: 5%;
     top: -80vh;
+    border-radius: 30%;
 }
 
 .container div:first-child {
